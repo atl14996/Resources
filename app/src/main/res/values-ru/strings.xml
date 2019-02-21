@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeekTwoDayThreeHomework</string>
+    <string name="resource">Мне нравится слушать музыку</string>
+    <string name="resource1">Перевод сложен из-за семантики</string>
+    <string name="resource2">Брайан Кемп - губернатор Грузии</string>
+    <string name="resource3">Я надеюсь, что однажды у меня будет бизнес</string>
+    <string name="resource4">Я использовал Google, чтобы перевести мой английский</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeekTwoDayThreeHomework</string>
+    <string name="resource">"J'aime écouter de la musique"</string>
+<string name="resource1">La traduction est difficile en raison de la sémantique</string>
+    <string name="resource2">Le gouverneur de la Géorgie est Brian Kemp</string>
+    <string name="resource3">"J'espère posséder un commerce un jour"</string>
+    <string name="resource4">"J'ai utilisé Google pour traduire mon anglais"</string>
+</resources>
